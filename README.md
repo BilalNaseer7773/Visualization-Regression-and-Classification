@@ -10,7 +10,7 @@ Implemented various plots (KDE, box, violin, histogram) for feature visualizatio
 Applied Stratified K-Fold Cross-Validation with K-Nearest Neighbors (KNN) classifier.
 ### Metrics Evaluated:
 Precision, recall, average precision, accuracy, and F1-score across multiple folds.
-
+<br><br>
 
 
 
@@ -27,7 +27,7 @@ Cross-validation, RMSE calculation, and visualization (box plots, scatter plots)
 ### Outcome: 
 Found SVR and Random Forest Regression to outperform Linear Regression in terms of RMSE and stability.
 
-
+<br><br>
 
 
 
