@@ -1,5 +1,8 @@
 # Visualization-Regression-and-Classification
 
+
+
+
 ## Data Visualization and K-Nearest Neighbors (KNN) Cross-Validation Project
 ### Objective: 
 Performed exploratory data analysis and visualization using Seaborn and Matplotlib to uncover patterns in two datasets.
@@ -9,6 +12,9 @@ Implemented various plots (KDE, box, violin, histogram) for feature visualizatio
 Applied Stratified K-Fold Cross-Validation with K-Nearest Neighbors (KNN) classifier.
 ### Metrics Evaluated:
 Precision, recall, average precision, accuracy, and F1-score across multiple folds.
+
+
+
 
 
 ## Regression Model Comparison Project
@@ -22,6 +28,10 @@ Implemented Support Vector Regression (SVR) and Random Forest Regression for imp
 Cross-validation, RMSE calculation, and visualization (box plots, scatter plots) to compare model performance.
 ### Outcome: 
 Found SVR and Random Forest Regression to outperform Linear Regression in terms of RMSE and stability.
+
+
+
+
 
 
 ## Classification Model Evaluation Project
