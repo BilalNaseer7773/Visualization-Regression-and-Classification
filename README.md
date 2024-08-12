@@ -2,7 +2,6 @@
 <br><br>
 <br><br>
 
-
 ## Data Visualization and K-Nearest Neighbors (KNN) Cross-Validation Project
 ### Objective: 
 Performed exploratory data analysis and visualization using Seaborn and Matplotlib to uncover patterns in two datasets.
